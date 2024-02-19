@@ -71,13 +71,13 @@
   <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/azure.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/leetcode.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/hackerrank.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/exercism.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/services/exercism.svg" alt="excercism" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/docker.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/jetbrains_pycharm.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
