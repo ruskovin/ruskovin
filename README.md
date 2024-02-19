@@ -45,7 +45,8 @@
  
  - 💬 Connect? lets get social [<img style="width:30px;height:30px;position:relative; top:10px" src="https://raw.githubusercontent.com/ruskovin/ruskovin/main/X_icon.svg" alt="twitter link" >](https://twitter.com/pbalafai)
  <p align="center">
-   ### - Full Stack | Competitive Programming 💻
+    
+### - Full Stack | Competitive Programming 💻
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=ruskovin&&show_icons=true&theme=radical"/>
      </a>
