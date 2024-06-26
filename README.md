@@ -33,7 +33,7 @@
   <h3> I'm a Full-Stack developer from Cameroon .</h3>
 </p>
 
- - 🥀 Learning React & C
+ - 🥀 Learning React & R language
  
  - <i>Python, Javascript, Typescript, React and 69 others.</i>
    
