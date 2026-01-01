@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Paul Balafai | 💻 Full Stack Developer | 🛸 Cameroon 🇨🇲 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Paul Balafai | Student in Statistics and economics engineering | 💻 Full Stack Developer | 🛸 Cameroon 🇨🇲 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -32,14 +32,12 @@
 <p align="center">
   <h3> I'm a Full-Stack developer from Cameroon .</h3>
 </p>
-
- - 🥀 Learning React & R language
  
- - <i>Python, Javascript, Typescript, React and 69 others.</i>
+ - <i>Python , R, Javascript, Typescript, React .</i>
    
- - 🛸 Into engineering Mathematics and Statistics, I like solving problems.
+ - 🛸 Into engineering Mathematics, economics and Statistics, I like solving problems.
  
- - I am fullstack and a bit of everything. I like writing python scripts :heart:
+ - I am fullstack and a bit of everything. I like creating web apps with django for fun :heart:
  
  - Always available to collaborate and to build a project.
  
