@@ -20,7 +20,9 @@
 <p align="center">
    <a href="https://twitter.com/pbalafai"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pbalafai?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@pbalafai"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=ruskovin.ruskovin"> <img alt="paolo github" src="https://visitor-badge.glitch.me/badge?page_id=ruskovin.ruskovin"> </a>
+  <a href="https://komarev.com/ghpvc/?username=ruskovin&style=for-the-badge&color=blueviolet&label=Visitors">
+    <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ruskovin&style=for-the-badge&color=blueviolet&label=Visitors">
+  </a>
  </p>
  
  <h5 align="center">
@@ -45,9 +47,14 @@
  <p align="center">
     
 ### - Full Stack | Competitive Programming 💻
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ruskovin&&show_icons=true&theme=radical"/>
-     </a>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ruskovin&show_icons=true&count_private=true&theme=radical" alt="GitHub stats">
+    </a>
+    <a href="https://streak-stats.demolab.com?user=ruskovin">
+      <img src="https://streak-stats.demolab.com?user=ruskovin&theme=radical" alt="ruskovin's GitHub streak">
+    </a>
+  </p>
 </p>
 
 <br />
