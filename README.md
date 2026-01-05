@@ -48,7 +48,6 @@
     
 ### - Full Stack | Competitive Programming 💻
   <p align="center">
-    
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical" alt="Profile summary">
     </a>
