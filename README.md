@@ -48,11 +48,11 @@
     
 ### - Full Stack | Competitive Programming 💻
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=ruskovin&show_icons=true&count_private=true&theme=radical" alt="GitHub stats">
+    <a href="https://github.com/ruskovin">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruskovin&layout=compact&theme=radical" alt="Top languages">
     </a>
-    <a href="https://streak-stats.demolab.com?user=ruskovin">
-      <img src="https://streak-stats.demolab.com?user=ruskovin&theme=radical" alt="ruskovin's GitHub streak">
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical" alt="Profile summary">
     </a>
   </p>
 </p>
