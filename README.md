@@ -49,7 +49,7 @@
 ### - Full Stack | Competitive Programming 💻
   <p align="center">
     <a href="https://github.com/ruskovin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruskovin&layout=compact&theme=radical" alt="Top languages">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruskovin&layout=compact&theme=radical" alt="Top languages">
     </a>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruskovin&theme=radical" alt="Profile summary">
